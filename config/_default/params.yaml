@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: steven5162
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
+  name: Steven Parrott
+  image: author.jpeg
+  greeting: "Principal Network Engineer/Architect"
   icon: ":wave:"
 
 ############################
@@ -13,8 +13,10 @@ author:
 ############################
 
 links:
-  - github: https://github.com/steven5162/parrott.xyz
-  - link: https://github.com/steven5162/parrott.xyz#readme
+  - github: https://github.com/steven5162/
+  - facebook: https://www.facebook.com/profile.php?id=61559186642255
+  - email: mailto:info@parrott.xyz?subject=Hello
+  - linkedin: https://www.linkedin.com/in/parrottsteven/
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -64,7 +66,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: parrott.xyz
-description: "Site build with Qubt & Hugo"
+title: "Steven Parrott"
+description: "Principal Network Engineer/Architect"
 images:
-  - thumbnail.png
+  - logo.png
