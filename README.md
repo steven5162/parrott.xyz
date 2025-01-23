@@ -1,4 +1,8 @@
-# parrott.xyz
+# www.parrott.xyz
+
+
+
+Keeping the below for ref as used [qubt](https://chrede88.github.io/qubt/) to build this page so it was not hosted on my personal server
 
 Please follow the instructions below to finish the setup of your new Qubt site.
 
